@@ -24,6 +24,10 @@ keywords:
 - quick intro
 :::
 
+# Source Slides/Presentation
+
+<img src="images/qrcode_github.com.png" width="450">
+
 ---
 
 <iframe src="https://wall.sli.do/event/rcWdQQHxXXLM5BTBPpFwAr" class="stretch"></iframe>

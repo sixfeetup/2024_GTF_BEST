@@ -16,7 +16,7 @@ keywords:
 ## Introducing The BEST™ Framework
 #### Calvin Hendryx-Parker, CTO
 #### Six Feet Up
-#### IT Leaders Indianapolis 2023
+#### Purdue Innovates -- Lunch & Learn 2024
 
 ::: notes
 - Nowadays, the world runs on software
@@ -26,11 +26,11 @@ keywords:
 
 # Source Slides/Presentation
 
-<img src="images/qrcode_github.com.png" width="450">
+<img src="images/qrcode_github.com.png" width="555">
 
 ---
 
-<iframe src="https://wall.sli.do/event/rcWdQQHxXXLM5BTBPpFwAr" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
 
 ::: notes
 1. Team Survey
@@ -53,7 +53,7 @@ engaged 6 teams to interview a subset of people from each team
 
 ---
 
-<iframe src="https://wall.sli.do/event/rcWdQQHxXXLM5BTBPpFwAr" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
 
 ::: notes
 1. Initial thoughts on lack of velocity
@@ -143,7 +143,7 @@ Note to crowd, we are continuously evolving these each time we use these tools
 
 # Data-Driven Insights {data-background-image="images/space_analytics.png"}
 
-<img src="images/comparing_results.png" width="900">{.stretch}
+<img src="images/comparing_results.png" width="900">
 
 ::: notes
 - Team Report Heatmaps highlight areas that require attention
@@ -154,7 +154,7 @@ Note to crowd, we are continuously evolving these each time we use these tools
  
 ---
 
-<iframe src="https://wall.sli.do/event/rcWdQQHxXXLM5BTBPpFwAr" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
 
 # Explore Further... {.original data-background-image="images/iStock-1377749663.jpg"}
 

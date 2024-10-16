@@ -20,8 +20,20 @@ keywords:
 
 ::: notes
 - Nowadays, the world runs on software
+ 
+Stats from Worldmetrics, Shocking Project Failure Statistics: Majority of IT Projects at Risk, July 23, 2024.
+75% of business and IT executives anticipate their software projects will fail. The failure rate of IT projects is 43%.
+Two-thirds of software projects fail due to cost overruns or delays
+
 - If you want to impact the world, you will want to be as productive as possible
-- quick intro
+
+Six Feet Up is the premier Python and AI agency in the US that specializes in solving hard problems. 
+
+More experience per capita than any other agency
+
+25 years of experience across 12+ industries
+
+Hybrid project management approach
 :::
 
 # Source Slides/Presentation
@@ -39,16 +51,20 @@ keywords:
 
 # Journey {data-background-image="images/space_journey.png"}
 
+## "How can we be more like you?" {.r-fit-text}
+
 * 6 Globally Distributed Teams
 * Some Poorly Performing
 * Goal to Improve Delivery Velocity
+ 
+::: notes
+engaged 6 teams to interview a subset of people from each team
+80 hours of work for the 6 teams
+ 
 * Assumptions:
   * Poor Test Coverage?
   * Technical Debt?
 
-::: notes
-engaged 6 teams to interview a subset of people from each team
-80 hours of work for the 6 teams
 :::
 
 ---
@@ -59,7 +75,13 @@ engaged 6 teams to interview a subset of people from each team
 1. Initial thoughts on lack of velocity
 :::
 
-# The Discovery {data-background-image="images/space_discovery.png"}
+# Discovery of Root Causes {data-background-image="images/space_discovery.png"}
+
+### Inefficient Processes and Bottlenecks?
+
+### Technical Debt and Complex Codebases?
+
+### Team Skill Gaps and Collaboration Issues?
 
 * Interviewed 6 Teams
 * Used a sampling of people
@@ -69,6 +91,12 @@ engaged 6 teams to interview a subset of people from each team
 ::: notes
 Out of over 30 teams
 Using our own internal knowledge as a guide
+
+Legacy workflows, unclear requirements, and manual interventions in CI/CD pipelines can slow down development. Removing these inefficiencies and adopting modern tools or automation requires significant effort.
+
+Accumulated technical debt and overly complex or outdated codebases make it harder for teams to deliver quickly. Refactoring or optimizing this code demands time and resources, which slows down immediate velocity improvements.
+
+Teams may lack the necessary skills or training to adopt new tools, frameworks, or methodologies. Poor communication and misalignment between development, QA, and operations can further hamper speed.
 :::
 
 # One Team, Many Issues {data-background-image="images/space_paradox.png"}
@@ -77,7 +105,7 @@ Using our own internal knowledge as a guide
 
 # Prioritizing Investments {data-background-image="images/space_paradox.png"}
 
-* 4 Stages, 19 Units
+* 4 Stages, 19 Units, 90 Datapoints
 
 <img src="images/best-team1-heatmap.png" width="550" alt="" style="margin: 5px;" />
 

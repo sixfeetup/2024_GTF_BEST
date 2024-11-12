@@ -4,7 +4,7 @@ pagetitle: Accelerate your SDLC
 author: Calvin Hendryx-Parker, CTO, Six Feet Up
 author-meta:
     - Calvin Hendryx-Parker
-date: IT Leaders November 2023
+date: Good Tech Fest Webinar 2024
 date-meta: 2023
 keywords:
     - Python
@@ -16,7 +16,7 @@ keywords:
 ## Introducing The BEST™ Framework
 #### Calvin Hendryx-Parker, CTO
 #### Six Feet Up
-#### Purdue Innovates -- Lunch & Learn 2024
+#### Good Tech Fest -- Lunch & Learn 2024
 
 ::: notes
 - Nowadays, the world runs on software

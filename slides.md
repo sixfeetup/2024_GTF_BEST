@@ -42,7 +42,7 @@ Hybrid project management approach
 
 ---
 
-<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/675UfJCJWPvX12Fq46WqvB" class="stretch"></iframe>
 
 ::: notes
 1. Team Survey
@@ -69,7 +69,7 @@ engaged 6 teams to interview a subset of people from each team
 
 ---
 
-<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/675UfJCJWPvX12Fq46WqvB" class="stretch"></iframe>
 
 ::: notes
 1. Initial thoughts on lack of velocity
@@ -182,7 +182,7 @@ Note to crowd, we are continuously evolving these each time we use these tools
  
 ---
 
-<iframe src="https://wall.sli.do/event/8HP1Jp2nUWCwQvxHNcSKr7" class="stretch"></iframe>
+<iframe src="https://wall.sli.do/event/675UfJCJWPvX12Fq46WqvB" class="stretch"></iframe>
 
 # Explore Further... {.original data-background-image="images/iStock-1377749663.jpg"}
 
